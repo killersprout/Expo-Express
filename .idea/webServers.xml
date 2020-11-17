@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="89ffa84d-8a2b-4745-a2de-91107a1bbd26" name="ExpoExpress" url="http://expoexpress.online.dream.website">
+        <fileTransfer rootFolder="/home/dh_efhwk6" accessType="SFTP" host="expoexpress.online.dream.website" port="22" sshConfigId="3ba4fb81-3b62-41d5-8675-1b40bd832213" sshConfig="dh_efhwk6@expoexpress.online.dream.website:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

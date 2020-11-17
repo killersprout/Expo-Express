@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="expoexpress.online.dream.website" id="3ba4fb81-3b62-41d5-8675-1b40bd832213" port="22" nameFormat="DESCRIPTIVE" username="dh_efhwk6" />
+    </configs>
+  </component>
+</project>

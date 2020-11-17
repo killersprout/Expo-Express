@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="997fc6e6-90fa-483d-b815-ce1355dd8716" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SignUp/template.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="expoexpress.online.dream.website" id="a0085741-1200-475c-ae80-b364e71f8e87" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1hFvOpBpo98kxSuHvSD0kKpzBdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/cms" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Unnamed" start_url="http://www.expoexpress.online/register/register.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997fc6e6-90fa-483d-b815-ce1355dd8716" name="Default Changelist" comment="" />
+      <created>1599619624219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599619624219</updated>
+      <workItem from="1599619625868" duration="17000" />
+      <workItem from="1599619723490" duration="3017000" />
+      <workItem from="1599676200395" duration="4691000" />
+      <workItem from="1599682329594" duration="3343000" />
+      <workItem from="1599790816491" duration="31000" />
+      <workItem from="1599790920446" duration="602000" />
+      <workItem from="1599831558500" duration="1830000" />
+      <workItem from="1600091436760" duration="15206000" />
+      <workItem from="1600276426711" duration="16335000" />
+      <workItem from="1600311426780" duration="3644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1213" y="399" width="613" height="682" key="#Deployment" timestamp="1600294506033">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="74" width="613" height="682" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1599621482616" />
+    <state x="1213" y="399" key="#Deployment/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600294506033" />
+    <state x="4880" y="340" key="#Deployment/0.0.2560.1400/3840.0.2194.1194@3840.0.2194.1194" timestamp="1600109392042" />
+    <state x="0" y="510" key="#SQL_Dialects" timestamp="1600284400258">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="510" key="#SQL_Dialects/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600284400258" />
+    <state x="437" y="422" key="#SSH_Configurations" timestamp="1599683958866">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="61" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1599621470008" />
+    <state x="437" y="422" key="#SSH_Configurations/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1599683958866" />
+    <state x="790" y="377" key="#Servers" timestamp="1600286103475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="790" y="377" key="#Servers/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600286103475" />
+    <state x="807" y="433" width="1009" height="744" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600291336849">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-28" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599621332324" />
+    <state x="807" y="433" width="1009" height="744" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600291336849" />
+    <state x="4532" y="369" width="814" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.0.2194.1194@3840.0.2194.1194" timestamp="1599678867591" />
+    <state x="207" y="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600285802249">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="124" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599622714246" />
+    <state x="207" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600285802249" />
+    <state x="4017" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/3840.0.2194.1194@3840.0.2194.1194" timestamp="1599677271699" />
+    <state x="103" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599790823930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="103" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1599790823930" />
+    <state x="94" y="100" width="1296" height="1207" key="DiffContextDialog" timestamp="1600102519947">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="94" y="100" width="1296" height="1207" key="DiffContextDialog/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600102519947" />
+    <state x="605" y="234" key="FileChooserDialogImpl" timestamp="1600312430385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="605" y="234" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600312430385" />
+    <state x="1008" y="397" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1599831577602" />
+    <state width="270" height="663" key="HiddenNamespacesPopup" timestamp="1599678690089">
+      <screen x="3840" y="0" width="2194" height="1194" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1599620456358" />
+    <state width="270" height="663" key="HiddenNamespacesPopup/0.0.2560.1400/3840.0.2194.1194@3840.0.2194.1194" timestamp="1599678690089" />
+    <state x="144" y="314" key="WebDeployment.AddServerDialog.v.1" timestamp="1599621366832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="144" y="314" key="WebDeployment.AddServerDialog.v.1/0.0.1536.824@0.0.1536.824" timestamp="1599621366832" />
+    <state x="535" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600286560455">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="535" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600286560455" />
+    <state x="638" y="569" key="publish.login" timestamp="1599676221581">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="638" y="569" key="publish.login/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1599676221581" />
+    <state x="4510" y="276" key="run.anything.popup" timestamp="1599678413117">
+      <screen x="3840" y="0" width="2194" height="1194" />
+    </state>
+    <state x="4510" y="276" key="run.anything.popup/0.0.2560.1400/3840.0.2194.1194@3840.0.2194.1194" timestamp="1599678413117" />
+    <state x="321" y="313" width="840" height="1034" key="search.everywhere.popup" timestamp="1600102667153">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="321" y="313" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400/3840.0.2194.1194@0.0.2560.1400" timestamp="1600102667153" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>remoteDeploymentFS://&lt;89ffa84d-8a2b-4745-a2de-91107a1bbd26&gt;/expoexpress.online/functions/functions.php</url>
+          <line>23</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\validateMember" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>remoteDeploymentFS://&lt;89ffa84d-8a2b-4745-a2de-91107a1bbd26&gt;/expoexpress.online/functions/functions.php</url>
+          <line>3</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\showAllData" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
