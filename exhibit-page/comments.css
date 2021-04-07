@@ -1,0 +1,31 @@
+#comments {
+
+}
+
+#comment_box{
+    margin-left: 10px;
+}
+
+#comment_text_area
+{
+    width: -webkit-fill-available;
+    margin-bottom: 10px;
+}
+
+#submit_comment
+{
+    margin-left: 10px;
+}
+
+#view_comment {
+    width: auto;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+#author
+{
+    margin-bottom: 10px;
+}
+
