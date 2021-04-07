@@ -1,6 +1,7 @@
 # Expo-Express
 Expo Express is a Senior Design project from the Florida Institute of Technology that allows an organizations to host virtual events.
-Expo Express can be found [here](https://www.expoexpress.online/).
+Expo Express can be found [here](https://www.expoexpress.online/). 
+The project website can be found [here](https://sites.google.com/view/expoexpress/home)
 
 WordPress was used as the content managemnet system, however, the application is not 100% dependent on it. It can be run locally given you fill in the blanks. 
 
